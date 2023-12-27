@@ -4,6 +4,8 @@
 
 Bienvenido a Tdo-app, una aplicación simple de gestión de tareas desarrollada con React.js y utilizando Local Storage para el almacenamiento local de datos. Esta aplicación te permite organizar tus tareas de manera eficiente, proporcionando una interfaz intuitiva y fácil de usar.
 
+Aquí el link de la app para que la puedas usar:  https://regilbatista.github.io/Tdo-app/
+
 ## Características
 
 - **Gestión de Tareas:** Agrega, edita y elimina tareas según tus necesidades.
