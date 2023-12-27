@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tdo-app/static/css/main.97555e94.css",
+    "main.js": "/Tdo-app/static/js/main.591c31ee.js",
+    "index.html": "/Tdo-app/index.html",
+    "static/media/delete.svg": "/Tdo-app/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/Tdo-app/static/media/check.1588521d2b9a58a84c4fbcf28251bb42.svg",
+    "main.97555e94.css.map": "/Tdo-app/static/css/main.97555e94.css.map",
+    "main.591c31ee.js.map": "/Tdo-app/static/js/main.591c31ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97555e94.css",
+    "static/js/main.591c31ee.js"
+  ]
+}
